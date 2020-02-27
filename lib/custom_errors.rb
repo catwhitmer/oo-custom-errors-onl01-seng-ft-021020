@@ -1,11 +1,3 @@
-class PartnerError < StandardError
-end
-
-
-
-
-
-
 class Person
   attr_accessor :partner, :name
 
